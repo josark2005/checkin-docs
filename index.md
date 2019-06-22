@@ -1,5 +1,9 @@
 # Check-in Game v3 手册
 
+## 特性
+
+- [机制改动](./changes.md)
+
 ## 手册
 
 - [WORKER手册](./WORKER.md)
